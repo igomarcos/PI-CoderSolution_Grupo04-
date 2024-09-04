@@ -20,7 +20,7 @@
 </br>
 
    
-<h3>MVP</h3>
+<h3>MVP:</h3>
 <p>A partir de diversas conferências com todo o grupo foi acordado realizar o desenvolvimento das principais partes do sistema, nos quais, foram pensadas para o setor logístico, e no caso, para o comprador do sistema, no qual terá acesso a um sistema seguro (criptografado), além de, um produto intuitivo e com fácil manuseio, fornecendo organização e controle da empresa.</p>
  </br>
 
@@ -29,8 +29,7 @@
    - Tela de login: somente clientes cadastrados dentro da plataforma terão acesso ao sistema.
    - Tela de Dashboard: apresentação de estatísticas e analises para controle o organização.
    - Tela de Estoque: visualização de produtos cadastrados no sistema.
-   - Tela de novo produto: o usuário poderá realizar o cadastro e fornecer as informações referentes a um item específico.
-   - Tela de visualização do sistema: o cliente observará as funcionalidades do sistema (algumas abas estarão em "construção")
+  
 </br>
 
 <h3>Preparação do ambiente: </h3>
