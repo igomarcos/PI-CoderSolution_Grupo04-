@@ -1,4 +1,4 @@
-<h1 align="center">Grupo 21 - PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS ORIENTADO A DISPOSITIVOS MÓVEIS E BASEADOS NA WEB</h1>
+<h1 align="center">Grupo 04  - PROJETO INTEGRADOR: ANÁLISE DE SOLUÇÕES INTEGRADAS PARA ORGANIZAÇÕES</h1>
 
 <h3>Grupo composto por:</h3>
 
@@ -16,11 +16,11 @@
 </br>
 
 <h3 > Introdução: </h3>
-<p>Nesta segunda fase do projeto, o objetivo foi a criação de uma prova de conceito para o sistema "Coder Solution", focando em demonstrar a funcionalidade do sistema de gerenciamento de estoque. Desde a autenticação de usuários até a manipulação de produtos no estoque, buscando criar uma experiência intuitiva e eficiente para os usuários.</p>
+<p>Nesta segunda fase do projeto, o objetivo foi o desenvolvimento do Produto Minimo Viável (MVP) para o sistema "Coder Solution", focando em demonstrar a funcionalidade do sistema de gerenciamento de estoque. Desde a autenticação de usuários até a manipulação de produtos no estoque, buscando criar uma experiência intuitiva e eficiente para os usuários.</p>
 </br>
 
    
-<h3>Prova de Conceito: </h3>
+<h3>MVP</h3>
 <p>A partir de diversas conferências com todo o grupo foi acordado realizar o desenvolvimento das principais partes do sistema, nos quais, foram pensadas para o setor logístico, e no caso, para o comprador do sistema, no qual terá acesso a um sistema seguro (criptografado), além de, um produto intuitivo e com fácil manuseio, fornecendo organização e controle da empresa.</p>
  </br>
 
