@@ -15,12 +15,15 @@
 <h2 align="center">Nome da empresa - Coder Solution</h2>
 </br>
 
+
 <h3 > Introdução: </h3>
 <p>Nesta segunda fase do projeto, o objetivo foi o desenvolvimento do Produto Minimo Viável (MVP) para o sistema "Coder Solution", focando em demonstrar a funcionalidade do sistema de gerenciamento de estoque. Desde a autenticação de usuários até a manipulação de produtos no estoque, buscando criar uma experiência intuitiva e eficiente para os usuários.</p>
 </br>
 
 
 <h3>Personas:</h3>
+
+
 
 <h3>Protótipo de navegação do produto:</h3>
 <p>A partir de diversas conferências com todo o grupo foi acordado realizar o desenvolvimento das principais partes do sistema, nos quais, foram pensadas para o setor logístico, e no caso, para o comprador do sistema, no qual terá acesso a um sistema seguro (criptografado), além de, um produto intuitivo e com fácil manuseio, fornecendo organização e controle da empresa.</p>
@@ -57,7 +60,9 @@
 <h3>Banco de dados firebase:</h3>
 <img src="/public/Firebase-bd-login.png">
 <img src="/public/Firebase-bd-prod.png">
-<p>Conforme mostrado, o Firebase foi o banco de dados utilizado para armazenar informações de login, cadastro de novos usuários e produtos. As imagens mostram os usuários e os produtos cadastrados durante os primeiros testes do aplicativo.</p>
+<p>Conforme mostrado, o Firebase foi o banco de dados utilizado para armazenar informações de login, cadastro de novos usuários e produtos. As imagens mostram os usuários e os produtos cadastrados durante os 
+primeiros testes do aplicativo.</p>
+
 
 <h3>Preparação do ambiente: </h3>
 <p> A criação de um site para controle de produtos e estoque é uma tarefa fundamental para empresas que buscam otimizar seus processos e melhorar sua eficiência operacional. Neste contexto, a escolha das ferramentas certas desempenha um papel crucial no desenvolvimento de um sistema robusto e escalável. Neste texto, exploraremos a preparação do ambiente para a criação de um site de controle de produtos e estoque, utilizando as ferramentas React JS para o frontend, Node.js para o backend e Firebase como banco de dados do projeto. 
@@ -70,6 +75,7 @@ No backend, utilizaremos Node.js, um ambiente de tempo de execução JavaScript 
 Agora, em relação ao banco de dados, optaremos por utilizar o Firebase, uma plataforma de desenvolvimento de aplicativos móveis e web desenvolvida pelo Google. O Firebase oferece uma variedade de serviços, incluindo armazenamento em tempo real, autenticação de usuários, hospedagem de aplicativos e um banco de dados em tempo real NoSQL. Para o nosso site de controle de produtos e estoque, utilizaremos o Firestore, o banco de dados NoSQL do Firebase, que oferece escalabilidade, sincronização em tempo real e segurança integrada. 
 
 Para configurar o Firebase em nosso projeto, precisaremos criar um projeto no console do Firebase, configurar as regras de segurança do banco de dados e instalar o pacote firebase-admin para interagir com o Firestore a partir do backend. Além disso, podemos usar o Firebase SDK no frontend para autenticação de usuários, armazenamento de arquivos e comunicação em tempo real com o banco de dados. </p>
+
 
 <h3>Modelo Entidade-Relacionamento:</h3>
 
