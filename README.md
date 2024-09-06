@@ -20,9 +20,26 @@
 <p>Nesta segunda fase do projeto, o objetivo foi o desenvolvimento do Produto Minimo Viável (MVP) para o sistema "Coder Solution", focando em demonstrar a funcionalidade do sistema de gerenciamento de estoque. Desde a autenticação de usuários até a manipulação de produtos no estoque, buscando criar uma experiência intuitiva e eficiente para os usuários.</p>
 </br>
 
-
 <h3>Personas:</h3>
+<p>As personas criadas para este projeto servem ao propósito de representar perfis significativos dos usuários que o sistema "Coder Solution" deve atender. Elas ajudam a equipe a entender melhor as expectativas e os desafios dos usuários, de modo que as soluções tenham maior eficácia e sejam centradas neles.</p>
+</br>
+<img src="/public/persona-ana.png">
+</br>
+<img src="/public/persona-maria.png">
+</br>
+<img src="/public/persona-carlos.png">
 
+<h3>Jornada dos usuários:</h3>
+<p>Além das personas, as jornadas de uso dos usuários foram mapeadas com base em suas interações com o sistema. O mapeamento dessas jornadas é essencial para entender como a "Coder Solution" está sendo usada, desde o processo de autenticação até a navegação pelas principais funcionalidades, como o gerenciamento de estoque e . Isso permite à equipe identificar pontos críticos e oportunidades de melhoria, tornando a experiência de uso mais fluida e eficiente.</p>
+
+<h4>Ana Oliveira:</h4>
+<img src="/public/jornada-ana.png">
+
+<h4>Maria Santos:</h4>
+<img src="/public/jornada-maria.png">
+
+<h4>Carlos Silva:</h4>
+<img src="/public/jornada-carlos.png">
 
 
 <h3>Protótipo de navegação do produto:</h3>
