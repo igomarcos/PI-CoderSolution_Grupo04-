@@ -95,7 +95,7 @@ Para configurar o Firebase em nosso projeto, precisaremos criar um projeto no co
 
 
 <h3>Modelo Entidade-Relacionamento:</h3>
-
+<img src="/public/MER.jpeg">
 
 <h3>Video de apresentação do MVP:</h3>
 
